@@ -1,12 +1,16 @@
 window.addEventListener('DOMContentLoaded', () => {
 
-    
+
 
     // Tabs
     
 	let tabs = document.querySelectorAll('.tabheader__item'),
 		tabsContent = document.querySelectorAll('.tabcontent'),
 		tabsParent = document.querySelector('.tabheader__items');
+
+
+
+
 
 	function hideTabContent() {
         tabsContent.forEach(item => {
@@ -22,6 +26,7 @@ window.addEventListener('DOMContentLoaded', () => {
         tabsContent[i].style.display = 'block';
         tabs[i].classList.add('tabheader__item_active');
     }
+
     
 
 

@@ -1,0 +1,18 @@
+data = `[
+    { "numOfRooms": 1, "address": "Салавата Юлаева, 17а", "district": "Калининский район", "square": 34, "floor": 7, "numOfFloors": 10, "price": 9500}, 
+    { "numOfRooms": 2, "address": "Свободы, 104а", "district": "Советский район", "square": 60, "floor": 2, "numOfFloors": 5, "price": 9000},
+    { "numOfRooms": 1, "address": "Ереванская, 14", "district": "Ленинский район", "square": 40, "floor": 3, "numOfFloors": 9, "price": 9000},
+    { "numOfRooms": 1, "address": "Дарвина, 107", "district": "Советский район", "square": 31, "floor": 5, "numOfFloors": 5, "price": 9000},
+    { "numOfRooms": 1, "address": "Ереванская, 14", "district": "Ленинский район", "square": 40, "floor": 3, "numOfFloors": 9, "price": 9000},
+    { "numOfRooms": 1, "address": "Молодогвардейцев, 21", "district": "Курчатовский район", "square": 40, "floor": 8, "numOfFloors": 10, "price": 10000},
+    { "numOfRooms": 1, "address": "Двинская, 3", "district": "Калининский район", "square": 49, "floor": 10, "numOfFloors": 10, "price": 11500},
+    { "numOfRooms": 1, "address": "Комарова, 112", "district": "Тракторозаводский район", "square": 34, "floor": 6, "numOfFloors": 9, "price": 8000},
+    { "numOfRooms": 1, "address": "Котина, 21", "district": "Тракторозаводский район", "square": 34, "floor": 4, "numOfFloors": 10, "price": 8000},
+    { "numOfRooms": 2, "address": "Ленина проспект, 28", "district": "Центральный район", "square": 60, "floor": 4, "numOfFloors": 10, "price": 17000},
+    { "numOfRooms": 3, "address": "Петра Сумина, 2", "district": "Центральный район", "square": 84, "floor": 15, "numOfFloors": 19, "price": 15000},
+    { "numOfRooms": 2, "address": "Комарова, 114а ", "district": "Тракторозаводский район", "square": 50, "floor": 4, "numOfFloors": 10, "price": 8000},
+    { "numOfRooms": 2, "address": "Свободы, 92а", "district": "Центральный район", "square": 54, "floor": 2, "numOfFloors": 5, "price": 12000},
+    { "numOfRooms": 1, "address": "Академика Сахарова, 22 ", "district": "Центральный район", "square": 43, "floor": 7, "numOfFloors": 10, "price": 14000},
+    { "numOfRooms": 1, "address": "Академика Сахарова, 30", "district": "Центральный район", "square": 43, "floor": 3, "numOfFloors": 10, "price": 13000}
+]`
+

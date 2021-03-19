@@ -76,9 +76,16 @@ header{
 
 
 .tabcontent__descr{
-
+    display: flex;
+    padding-top: 50px;
+    
 }
 
 .card_one{
     padding-top: 50px;
+
+}
+.card_app {
+    padding-right: 80px;
+    padding-left: 25px;
 }
